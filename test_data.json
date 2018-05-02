@@ -1,0 +1,26 @@
+[
+    {
+      "day": "2018-04-29T16:44:30.679Z",
+      "_id": "5ae9f108860761641f52ad74",
+      "name": "BOB",
+      "phone": "123456789",
+      "email": "example@gmail.com",
+      "org": "Yellow org",
+      "days": "Day-1",
+      "token": "ec7d813f-37b0-4c5d-90c4-52605f89247f",
+      "verified": false,
+      "__v": 0
+    },
+    {
+      "day": "2018-04-29T16:44:30.679Z",
+      "_id": "5ae9f4aa860761641f52ad75",
+      "name": "Rose",
+      "phone": "123456789",
+      "email": "example@sahyadri.edu.in",
+      "org": "Blue org",
+      "days": "Day-1",
+      "token": "c5a19c41-5ecc-46e0-9000-8c6303b2efb5",
+      "verified": true,
+      "__v": 0
+    }
+]
