@@ -1,3 +1,5 @@
+# Author: AbhiiGatty
+# Function: Generates QR code for the attendees of an event for easier access and authentication
 import pyqrcode, requests
 import json
 import os, time 
